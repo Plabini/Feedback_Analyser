@@ -215,3 +215,19 @@
 	top: 126px;
 	overflow: visible;
 }
+input[type=text] {
+	border-color: black;
+	background-color: #bdbdbd;
+	color: black;
+	width: 600px;
+	height: 84px;
+	font-size: 40px;
+}
+input[type=password] {
+	border-color: black;
+	background-color: #bdbdbd;
+	color: black;
+	width: 600px;
+	height: 84px;
+	font-size: 40px;
+}
