@@ -1,0 +1,217 @@
+.mediaViewInfo {
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Login;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Login {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Login;
+	--web-view-id: Login;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#pexels-burak-kebapci-186461 {
+	opacity: 0.95;
+	position: absolute;
+	width: 2013px;
+	height: 1165px;
+	left: -26px;
+	top: -48px;
+	overflow: visible;
+}
+#Rectangle_10 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1721px;
+	height: 1099px;
+	left: 981px;
+	top: 0px;
+}
+#Polygon_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 827px;
+	height: 1080px;
+	left: 568px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feedback_Analyser {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 986px;
+	top: 202px;
+	position: absolute;
+	overflow: visible;
+	width: 820px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(135,64,46,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 869px;
+	height: 595px;
+	left: 960px;
+	top: 408px;
+}
+#Login_Id {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Login_Id {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 84px;
+	left: 1095px;
+	top: 540px;
+}
+#Login_Password {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Login_Password {
+	position: absolute;
+	overflow: visible;
+	width: 600px;
+	height: 84px;
+	left: 1095px;
+	top: 741px;
+}
+#Login_Button {
+	fill: rgba(232,213,181,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Login_Button {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 72px;
+	left: 1254px;
+	top: 898px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#ID {
+	left: 1095px;
+	top: 464px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(135,64,46,1);
+}
+#Password {
+	left: 1095px;
+	top: 679px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(135,64,46,1);
+}
+#Login_v {
+	left: 1340px;
+	top: 904px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(135,64,46,1);
+}
+#statistics {
+	position: absolute;
+	width: 76px;
+	height: 76px;
+	left: 1364px;
+	top: 126px;
+	overflow: visible;
+}

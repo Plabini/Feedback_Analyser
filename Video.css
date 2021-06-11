@@ -1,0 +1,259 @@
+.mediaViewInfo {
+	--web-view-name: Video – 2;
+	--web-view-id: Video__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Video__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Video__2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Video – 2;
+	--web-view-id: Video__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#pexels-burak-kebapci-186461 {
+	opacity: 0.95;
+	position: absolute;
+	width: 2324px;
+	height: 1310px;
+	left: 0px;
+	top: -218px;
+	overflow: visible;
+}
+#Rectangle_14 {
+	fill: rgba(249,249,249,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.851));
+	position: absolute;
+	overflow: visible;
+	width: 1836px;
+	height: 1004px;
+	left: 51px;
+	top: 47px;
+}
+#Start_Analysis {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(52,27,81,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Start_Analysis {
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 105px;
+	left: 119px;
+	top: 896px;
+}
+#End_Analysis {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(52,27,81,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.End_Analysis {
+	overflow: visible;
+	position: absolute;
+	width: 422px;
+	height: 105px;
+	left: 764px;
+	top: 898px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Video_1.html;
+	cursor: pointer;
+}
+#View_Report {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(52,27,81,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.View_Report {
+	position: absolute;
+	overflow: visible;
+	width: 422px;
+	height: 105px;
+	left: 1380px;
+	top: 896px;
+}
+#Start_Analysis_r {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 184px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
+#View_Report_s {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 1458px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
+#Class_A {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 1708px;
+	top: 86px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(135,64,46,1);
+}
+#Feedback_Analyser {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 902px;
+	top: 84px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(135,64,46,1);
+}
+#statistics {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 848px;
+	top: 80px;
+	overflow: visible;
+}
+#left-arrow {
+	position: absolute;
+	width: 49px;
+	height: 49px;
+	left: 119px;
+	top: 86px;
+	overflow: visible;
+}
+#Back {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 178px;
+	top: 86px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(135,64,46,1);
+}
+#Video_Rect {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Video_Rect {
+	position: absolute;
+	overflow: visible;
+	width: 1683px;
+	height: 702px;
+	left: 119px;
+	top: 160px;
+}
+#End_Analysis_z {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 838px;
+	top: 915px;
+	position: absolute;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
+#The_Video{
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.The_Video{
+	position: absolute;
+	overflow: hidden;
+	width: 1683px;
+	height: 702px;
+	left: 119px;
+	top: 160px;
+}

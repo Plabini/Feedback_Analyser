@@ -1,0 +1,275 @@
+.mediaViewInfo {
+	--web-view-name: Home – 1;
+	--web-view-id: Home__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Home__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home – 1;
+	--web-view-id: Home__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#pexels-burak-kebapci-186461 {
+	opacity: 0.95;
+	position: absolute;
+	width: 2013px;
+	height: 1165px;
+	left: 0px;
+	top: -42px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Class.html;
+	cursor: pointer;
+}
+#Class_A {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Class_A {
+	position: absolute;
+	overflow: visible;
+	width: 771px;
+	height: 1099px;
+	left: 594px;
+	top: 0px;
+}
+#Polygon_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: visible;
+	position: absolute;
+	width: 827px;
+	height: 1080px;
+	left: 180px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Feedback_Analyser {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 884px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 247px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(135,64,46,1);
+}
+#statistics {
+	position: absolute;
+	width: 38px;
+	height: 38px;
+	left: 841px;
+	top: 53px;
+	overflow: visible;
+}
+#Polygon_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_3 {
+	overflow: visible;
+	position: absolute;
+	width: 827px;
+	height: 1100px;
+	left: 951px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Select_a_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.451));
+	left: 702px;
+	top: 149px;
+	position: absolute;
+	overflow: visible;
+	width: 591px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(135,64,46,1);
+}
+#Logout_Button {
+	fill: rgba(232,213,181,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Logout_Button {
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	height: 72px;
+	left: 841px;
+	top: 958px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login.html;
+	cursor: pointer;
+}
+#Logout {
+	left: 915px;
+	top: 964px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(135,64,46,1);
+}
+#Rectangle_17 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 122px;
+	left: 673px;
+	top: 452px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Class.html;
+	cursor: pointer;
+}
+#Rectangle_18 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 122px;
+	left: 673px;
+	top: 574px;
+}
+#Rectangle_19 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 510px;
+	height: 122px;
+	left: 673px;
+	top: 696px;
+}
+#Class_A_x {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.502));
+	left: 848px;
+	top: 483px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
+#Class_B {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.502));
+	left: 848px;
+	top: 606px;
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
+#Class_C {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.502));
+	left: 851px;
+	top: 724px;
+	position: absolute;
+	overflow: visible;
+	width: 159px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(135,64,46,1);
+}
